@@ -7,7 +7,7 @@ function App() {
      
         
         <p>
-          Hola react
+          Hola react, tanks for all
         </p>
         
          
